@@ -13,8 +13,7 @@ This project explores key trends and insights in the cryptocurrency market, leve
 - **Data Visualization**: Using libraries like Matplotlib, Seaborn, and Plotly.
 
 ## Connect with Me
-[LinkedIn Profile](https://www.linkedin.com/in/syedabdulhamid/)
-
+- **LinkedIn**: [Syed Mohamed](https://www.linkedin.com/in/syedabdulhamid/)
 ---
 
 **Disclaimer**: This project is for educational purposes only and should not be considered financial advice.
